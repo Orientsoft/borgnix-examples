@@ -1,0 +1,11 @@
+{
+  "name": "myo-ardrone",
+  "version": "1.0.0",
+  "description": "Control AR.Drone with Myo on Borgnix",
+  "main": "myo-ardrone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inoc603",
+  "license": "MIT"
+}
